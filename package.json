@@ -1,0 +1,17 @@
+{
+  "name": "pidoc",
+  "version": "1.0.0",
+  "description": "Pi's document",
+  "main": "index.js",
+  "repository": "https://github.com/oldjun/pidoc",
+  "author": "oldjun",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
