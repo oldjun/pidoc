@@ -1,2 +1,2 @@
 # pidoc
-[document of the pi programming language](#http://pilang.org/)
+[document of the pi programming language](http://pilang.org/)
