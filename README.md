@@ -1,2 +1,2 @@
 # pidoc
-Pi's document
+document of the pi programming language
